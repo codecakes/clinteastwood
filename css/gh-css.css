@@ -4,10 +4,12 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cursive""Garamond", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  /*color: #606c71;*/
+  color: #F4E6E6;
+}
 
 a {
   color: #1e6bb8;
