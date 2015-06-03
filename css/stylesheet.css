@@ -46,14 +46,16 @@ fieldset#enclose {
 .left > div#photo > img {
 	padding-top: 10px;
 	margin-left: 30%;
-	height: 100px;
-	width: 100px;
+	height: 200px;
+	width: 200px;
 	margin-bottom: 10px;
 }
 
-.left > article {
+.left > div#photo > article {
 	color: black;
 	margin: auto;
+	text-align: center;
+	padding-left: 30%;
 	text-align: center;
 }
 
@@ -66,6 +68,11 @@ fieldset#enclose {
 	height: 100px;
 	width: 70%;
 	margin-bottom: 400px;
+}
+
+.right > li {
+  list-style: none;
+  text-indent: -1em;
 }
 
 #footer {
