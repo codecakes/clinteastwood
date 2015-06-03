@@ -5,13 +5,19 @@ Thanks http://nicolasgallagher.com/pure-css-speech-bubbles/demo/default.css
 ** ============================================================================================================================ */
 
 .oval-speech-border {
+    font-family: monospace;
+  font-size: 22px;
+  position: relative;
+  color: rgb(142, 141, 141);
   position:relative;
-  padding:70px 30px;
   margin:1em auto 60px;
   border:10px solid #f3961c;
   text-align:center;
-  color:white;
   background:#fff;
+  padding: 90px 30px;
+  width:120px;
+  height:10px;
+  border-width:5px 5px 5px 0;
   /* css3 */
   /*
   NOTES:
@@ -24,7 +30,8 @@ Thanks http://nicolasgallagher.com/pure-css-speech-bubbles/demo/default.css
   -webkit-border-bottom-right-radius:240px 140px;
   -webkit-border-bottom-left-radius:240px 140px;
   -moz-border-radius:240px / 140px;
-  border-radius:240px / 140px;
+  /*border-radius:240px / 140px;*/
+  border-radius:360px / 210px;
 }
 
 /* creates larger curve */
