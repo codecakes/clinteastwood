@@ -11,7 +11,7 @@
 	width: 97.5%;
 	background-color: brown;
 	margin: -2px auto auto 5px;
-	border-radius: 5px;
+	border-radius: 10px;
 	margin-bottom: 40px;
 }
 
@@ -109,5 +109,5 @@ fieldset#enclose {
   background:     -ms-linear-gradient(90deg, #780206 10%, #061161 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #780206 10%, #061161 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #780206 10%, #061161 90%); /* W3C */
-        
+
 }
